@@ -4,7 +4,7 @@ An experiment conducted in Python comparing bias-variance tradeoffs across bagge
 
 ## Overview
 
-This project investigates the claim that ensemble methods reduce variance while keeping bias constant. Two criteria for the project had to be fulfilled. One was that the claim had to be tested using real world data. Ideally such a claim would be tested on simulate data. Secondly three diffrent methods had to be included when testing the claim. 
+This project investigates the claim that ensemble methods reduce variance while keeping bias constant. Some criterion for the project had to be fulfilled. The claim had to be tested using real world data. Ideally such a claim would be tested on simulate data. Alos three diffrent methods had to be included when testing the claim. Lastly the report coul dbe no longer than 6 pages including figures and tables.
 
 Three base learners with different variance profiles are compared:
 
